@@ -1,6 +1,6 @@
 <template>
     <div class="flex flex-col sm:flex-row">
-        <div class="sm:max-w-xs">
+        <div class="sm:max-w-xs flex-1">
             <slot name="sidebar"></slot>
         </div>
 
