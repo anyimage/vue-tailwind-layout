@@ -1,6 +1,6 @@
 {
   "name": "@anyimage/vue-tailwind-layout",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "private": false,
   "main": "layout-plugin.js",
