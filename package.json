@@ -1,7 +1,8 @@
 {
-  "name": "vue-tailwind-layout",
+  "name": "@anyimage/vue-tailwind-layout",
   "version": "1.0.0",
   "description": "",
+  "private": false,
   "main": "layout-plugin.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
