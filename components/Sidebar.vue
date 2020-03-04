@@ -1,5 +1,5 @@
 <template>
-    <div class="bg-gray-800 text-gray-400 sm:min-h-screen flex flex-col justify-between">
+    <div class="bg-gray-800 h-full text-gray-400 sm:min-h-screen flex flex-col justify-between">
         <div>
             <div class="h-16 flex justify-between items-center">
                 <div class="pl-6">
